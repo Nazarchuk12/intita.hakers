@@ -14,6 +14,7 @@
         2. git add .
         3. git commit -m "коментар"
         4. git push -u origin main (main або master ви можете побачити у консолі GitBash)
+        5. необхідно ввести ваш логін та пароль для GitHub
 
     Для того щоб витягнути зміни з сервереа на локальний компьютер:
     -   git pull -u origin main (main або master ви можете побачити у консолі GitBash)
